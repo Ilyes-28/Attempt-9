@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    background-color: red;
+    height: 110px;
+}
+span{
+    width: 33%;
+    background-color: green;
+    height: 110px;
+    float: left;
+}
+#Image-0{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px dashed blue;
+}
+#P-0{
+    color: gold;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+    line-height: 110px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    line-height: 110px;
+    display: inline-block;
+    color: gold;
+    width: 100px;
+}
+nav{
+    width: 100%;
+    background-color: black;
+    height: 110px;
+    text-align: center;
+}
+li{
+    display: inline-block;
+}
